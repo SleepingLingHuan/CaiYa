@@ -2,6 +2,11 @@
 
 一个功能完善的Android基金管理应用，采用现代化的Jetpack Compose技术栈开发。
 
+[![GitHub](https://img.shields.io/badge/GitHub-CaiYa-blue)](https://github.com/SleepingLingHuan/CaiYa)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Kotlin](https://img.shields.io/badge/Kotlin-2.0.21-blue.svg)](https://kotlinlang.org/)
+[![Android](https://img.shields.io/badge/Android-24+-green.svg)](https://www.android.com/)
+
 ## ✨ 主要功能
 
 - 📊 **基金行情**：实时查看基金涨跌幅排行榜，支持多维度排序（日/周/月/年）
@@ -60,8 +65,8 @@
 
 1. 克隆项目
 ```bash
-git clone https://github.com/your-username/jjsj.git
-cd jjsj
+git clone https://github.com/SleepingLingHuan/CaiYa.git
+cd CaiYa
 ```
 
 2. 打开项目
