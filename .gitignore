@@ -4,6 +4,9 @@
 *.ap_
 *.aab
 
+# Exception: Allow specific release APK
+!caiya-v2.2-20251024.apk
+
 # Files for the ART/Dalvik VM
 *.dex
 
